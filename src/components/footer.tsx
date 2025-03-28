@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <div className="relative h-12 w-12">
-                <Image src="/logo1.png" alt="More Code Logo" fill className="object-contain" />
+                <Image src="/LOGO1.png" alt="More Code Logo" fill className="object-contain" />
               </div>
               <span className="text-xl font-bold text-amber-500">MORE CODE</span>
             </div>

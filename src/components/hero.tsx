@@ -23,7 +23,7 @@ export default function Hero() {
           </div>
           <div className="flex justify-center lg:justify-end">
             <div className="relative h-[350px] w-[350px] md:h-[400px] md:w-[400px]">
-              <img src="/logo2.png" alt="More Code Logo" className="object-contain w-full h-full" />
+              <img src="/LOGO2.png" alt="More Code Logo" className="object-contain w-full h-full" />
             </div>
           </div>
         </div>

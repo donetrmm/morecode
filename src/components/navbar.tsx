@@ -36,7 +36,7 @@ export default function Navbar() {
           <div className="flex items-center">
             <Link href="/" className="flex items-center space-x-2">
             <div className="relative h-12 w-12">
-            <Image src="/logo1.png" alt="More Code Logo" fill className="object-contain" />
+            <Image src="/LOGO1.png" alt="More Code Logo" fill className="object-contain" />
               </div>
               <span className={`text-lg font-bold ${isScrolled ? "text-amber-600" : "text-amber-600"}`}>MORE CODE</span>
             </Link>
